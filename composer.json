@@ -1,0 +1,17 @@
+{
+    "name": "altin/euro-method",
+    "autoload": {
+        "psr-4": {
+            "Altin\\EuroMethod\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AltinALD",
+            "email": "ae30690@seeu.edu.mk"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    }
+}
